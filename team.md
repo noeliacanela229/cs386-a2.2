@@ -1,5 +1,2 @@
 # Noelia Canela
-
-# Teammate Name 1
-
-# Teammate Name 2
+# this is my md file
